@@ -1,0 +1,17 @@
+{
+  "name": "generator-teiron",
+  "version": "0.1.0",
+  "description": "generator for teiron front end team",
+  "keywords": [
+    "yeoman-generator",
+    "teiron"
+  ],
+  "author": "Chris Cheung",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "~0.17.7"
+  },
+  "devDependencies": {
+    "q": "~1.0.1"
+  }
+}

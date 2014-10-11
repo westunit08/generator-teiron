@@ -1,0 +1,13 @@
+{
+  "name": "<%= slugname %>",
+  "version": "0.0.0",
+  "description": "<%= props.description %>",
+  "keywords": [
+    "<%= slugname %>",
+    "teiron"
+  ],
+  "author": "<%= props.authorName %>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
