@@ -6,7 +6,11 @@
     "yeoman-generator",
     "teiron"
   ],
-  "author": "Chris Cheung",
+  "author": {
+  	"name": "Chris Cheung",
+  	"email":"chrischeung.bh@gmail.com",
+  	"url": "https://github.com/daddybh"
+  },
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "~0.17.7"
