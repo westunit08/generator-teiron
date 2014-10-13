@@ -9,7 +9,7 @@ generator-teiron
 
 * 安装generator `npm install generator-teiron --save-dev`
 
-* 到指定目录，执行`yo generator`
+* 到指定目录，执行`yo teiron`
 
 最终生成的目录结构如下
 
