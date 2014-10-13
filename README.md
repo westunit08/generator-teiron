@@ -7,7 +7,7 @@ generator-teiron
 
 * 安装yeoman `npm install -g yo`
 
-* 安装generator `npm install generator-teiron --save-dev`
+* 安装generator `npm install -g generator-teiron`
 
 * 到指定目录，执行`yo teiron`
 
